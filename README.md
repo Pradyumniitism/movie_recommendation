@@ -94,10 +94,8 @@ def Movie_recommend(movie):
 Movie_recommend('Batman Begins')
 Here's how you can mention this in your README file:
 
----
-
-### Dataset Information
-
+### 8. Dataset Information
+```python
 The dataset used in this project includes two files: `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`. Due to the size limitations on GitHub, the `tmdb_5000_credits.csv` file has not been uploaded. 
 
 To run this project, you need to download both files from Kaggle:
