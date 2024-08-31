@@ -94,7 +94,12 @@ def Movie_recommend(movie):
 Movie_recommend('Batman Begins')
 Here's how you can mention this in your README file:
 
-### 8. Dataset Information
+
+## Summary
+
+This project demonstrates how to build a basic movie recommendation system using text processing and machine learning techniques. The system can recommend movies similar to a given movie based on various features such as genres, keywords, cast, crew, and overview.
+
+## 8. Dataset Information
 ```python
 The dataset used in this project includes two files: `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`. Due to the size limitations on GitHub, the `tmdb_5000_credits.csv` file has not been uploaded. 
 
@@ -109,7 +114,3 @@ After downloading, place both files in the appropriate directory to ensure the c
 
 You can adjust the links to point directly to the dataset page on Kaggle if needed.
 ```
-
-## Summary
-
-This project demonstrates how to build a basic movie recommendation system using text processing and machine learning techniques. The system can recommend movies similar to a given movie based on various features such as genres, keywords, cast, crew, and overview.
