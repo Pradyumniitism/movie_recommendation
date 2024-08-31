@@ -92,6 +92,24 @@ def Movie_recommend(movie):
 ### 7. Example Usage
 ```python
 Movie_recommend('Batman Begins')
+Here's how you can mention this in your README file:
+
+---
+
+### Dataset Information
+
+The dataset used in this project includes two files: `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`. Due to the size limitations on GitHub, the `tmdb_5000_credits.csv` file has not been uploaded. 
+
+To run this project, you need to download both files from Kaggle:
+
+- [tmdb_5000_movies.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+- [tmdb_5000_credits.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
+After downloading, place both files in the appropriate directory to ensure the code functions correctly.
+
+---
+
+You can adjust the links to point directly to the dataset page on Kaggle if needed.
 ```
 
 ## Summary
